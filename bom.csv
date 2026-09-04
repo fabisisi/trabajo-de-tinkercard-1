@@ -1,0 +1,5 @@
+﻿Nombre,Cantidad,Componente
+"D1",1,"RCBG LED RGB"
+"Rpot1, Rpot2, Rpot3",3,"250 kΩ Potenciómetro"
+"R1, R2, R3",3,"1500 Ω Resistencia"
+"BAT2",1," Pila de 9 V"
